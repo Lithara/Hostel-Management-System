@@ -1,6 +1,6 @@
 # Hostel-Management-System
 
-14/05/2023
+13/05/2023
 
 Student List Page - Admission Date => Phone number
 			            - Search bar after the topic student list
